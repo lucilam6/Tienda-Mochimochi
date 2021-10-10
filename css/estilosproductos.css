@@ -1,0 +1,72 @@
+body{
+    background-color: rgb(235, 209, 213);
+}
+
+.encabezado{
+    color: rgb(238, 186, 194);
+    font-size: 30px;
+    background-color: white;
+    text-align: center;
+     font-family: 'Raleway', sans-serif;
+}
+
+.disponible{
+    background-color: rgb(205, 233, 177);
+    font-family: 'Raleway', sans-serif;
+}
+
+.tienda{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+
+.nombre_producto{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+
+.monto{
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+
+.parrafo{
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+    background-color: rgb(180, 219, 165);
+}
+
+.subtitulo{
+   
+    font-family: 'Raleway', sans-serif;
+}
+
+.tabla{
+   
+    font-family: 'Raleway', sans-serif;
+    
+}
+
+.footer{
+
+    font-family: 'Raleway', sans-serif;
+}
+
+.pie_pag{
+    color: rgb(238, 186, 194);
+    font-size: 30px;
+    background-color: white;
+    text-align: center;
+    font-family: 'Raleway', sans-serif
+}
+
+img{
+    margin: auto;
+}
+
+#nezuko{
+    margin: auto;
+    display: block;  
+ }
+

@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(235, 209, 213);
+}
+
+.encabezado{
+    color: rgb(238, 186, 194);
+    font-size: 30px;
+    background-color: white;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;    
+
+}
+
+.subtitulo{
+
+    
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+
+.presentacion{
+
+    font-family: 'Raleway', sans-serif;
+}
+
+.tienda{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+
+
+.about{
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Raleway', sans-serif;
+   
+}
+
+.parrafo{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    ;
+}
+
+.footer{
+
+    font-family: 'Raleway', sans-serif;
+}
+
+
+img{
+    margin: auto;
+    display: block;  
+ }
+ 
+.pie_pag{
+    color: rgb(238, 186, 194);
+    font-size: 30px;
+    background-color: white;
+    text-align: center;
+     font-family: 'Raleway', sans-serif;
+}
